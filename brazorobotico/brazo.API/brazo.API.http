@@ -1,0 +1,6 @@
+@brazo.API_HostAddress = http://localhost:5124
+
+GET {{brazo.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

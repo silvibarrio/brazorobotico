@@ -1,0 +1,11 @@
+C:\Users\ASUS\Documents\ITES\2024\brazorobotico\brazo.Application\bin\Debug\net8.0\brazo.Application.deps.json
+C:\Users\ASUS\Documents\ITES\2024\brazorobotico\brazo.Application\bin\Debug\net8.0\brazo.Application.dll
+C:\Users\ASUS\Documents\ITES\2024\brazorobotico\brazo.Application\bin\Debug\net8.0\brazo.Application.pdb
+C:\Users\ASUS\Documents\ITES\2024\brazorobotico\brazo.Application\obj\Debug\net8.0\brazo.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Documents\ITES\2024\brazorobotico\brazo.Application\obj\Debug\net8.0\brazo.Application.AssemblyInfoInputs.cache
+C:\Users\ASUS\Documents\ITES\2024\brazorobotico\brazo.Application\obj\Debug\net8.0\brazo.Application.AssemblyInfo.cs
+C:\Users\ASUS\Documents\ITES\2024\brazorobotico\brazo.Application\obj\Debug\net8.0\brazo.Application.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Documents\ITES\2024\brazorobotico\brazo.Application\obj\Debug\net8.0\brazo.Application.dll
+C:\Users\ASUS\Documents\ITES\2024\brazorobotico\brazo.Application\obj\Debug\net8.0\refint\brazo.Application.dll
+C:\Users\ASUS\Documents\ITES\2024\brazorobotico\brazo.Application\obj\Debug\net8.0\brazo.Application.pdb
+C:\Users\ASUS\Documents\ITES\2024\brazorobotico\brazo.Application\obj\Debug\net8.0\ref\brazo.Application.dll
