@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Control Brazo Robotico</string>
+    <string-array name="articulaciones">
+        <item>cintura</item>
+        <item>hombro</item>
+        <item>codo</item>
+        <item>muñeca</item>
+        <item>mano</item>
+    </string-array>
+</resources>
